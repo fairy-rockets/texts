@@ -4,9 +4,3 @@
 * [キツネとタヌキ](kitsune-to-tanuki.md)
 * [おれおのくっきー](oreo.md)
 * [戯曲 - キツネとタヌキ](gikyoku-kitsune-to-tanuki.md)
-
-
-# GitBookで見る
-
-https://fairyrockets.gitbooks.io/texts/content/
-
